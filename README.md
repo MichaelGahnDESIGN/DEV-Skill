@@ -271,15 +271,28 @@ Schutzmaßnahmen und menschliche Freigaben Pflicht sein.
 
 ## Lizenz
 
-Dieses Repository enthält derzeit keine ausdrückliche Open-Source-Lizenz. Ohne
-Lizenz gelten normale Urheberrechte. Wenn der Skill frei weiterverwendet werden
-soll, sollte bewusst eine passende Lizenzdatei ergänzt werden, zum Beispiel MIT,
-Apache-2.0, CC BY 4.0 oder eine eigene Regelung.
+Dieses Projekt steht unter der MIT-Lizenz.
 
-Diese README ist keine Rechtsberatung und ersetzt keine juristische Prüfung.
+Die MIT-Lizenz ist für diesen Skill eine passende Open-Source-Lizenz, weil sie
+kurz, gut verständlich und sehr frei nutzbar ist. Andere dürfen den Skill nutzen,
+kopieren, verändern, weitergeben und auch in kommerziellen Projekten einsetzen,
+solange der Copyright- und Lizenzhinweis erhalten bleibt.
+
+Der vollständige Lizenztext steht in [`LICENSE`](LICENSE).
 
 ## Impressum
 
-Angaben gemäß Impressum des Herausgebers:
+Angaben gemäß § 5 DDG:
 
+- Anbieter: Michael Gahn DESIGN
+- Inhaber: Michael Gahn
+- Anschrift: Dr.-Theodor-Brugsch Str. 12, 08529 Plauen, Sachsen, Deutschland
+- Telefon: +49 (0) 176 557 647 48
+- E-Mail: Anfrage@Michael-Gahn.de
+
+Umsatzsteuer-Identifikationsnummer gemäß § 27a Umsatzsteuergesetz: DE288143343
+
+Steuernummer: 223/222/02451
+
+Quelle und aktuelle Angaben:
 [https://Michael-Gahn.de/Impressum](https://Michael-Gahn.de/Impressum)
